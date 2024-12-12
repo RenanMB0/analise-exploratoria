@@ -1,2 +1,3 @@
 # analise-exploratoria
-Nesse projeto analisei dados encontrados no Kaggle, sobre estudantes com depressão. 
+O INTUITO DESSE PROJETO É DEIXAR REGISTRADO A MINHA EVOLUÇÃO
+NÃO ESPERE UM PROJETO ROBUSTO, MAS FORÇA E DEDICAÇÃO PARA APRENDER A FAZER ANALISES.
